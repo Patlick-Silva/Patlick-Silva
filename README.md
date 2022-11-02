@@ -26,7 +26,9 @@ eu tinha 17 anos, agora aos 21 decidi por o sonho de se tornar um desenvolvedor 
 <a href="https://www.instagram.com/patlick_silva/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a  href = "https://www.twitch.tv/hellsingvalir" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a  href = "mailto:patrickander737@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/patrick-anderson-a96a62253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/patrick-anderson-a96a62253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
 </div>
 
-![Animação de cobra](https://github.com/Patlick-Silva/Patlick-Silva/blob/output/github-contribution-grid-snake.svg)
+
+

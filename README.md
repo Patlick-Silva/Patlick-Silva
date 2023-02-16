@@ -3,8 +3,8 @@
 Eu sou Patrick Silva, tenho 21 anos e minha paixao pela programaçao surgiu quando
 eu tinha 17 anos, agora aos 21 decidi por o sonho de se tornar um desenvolvedor em pratica ! 
 
-- 💻 Estou estudando atualmente, Html / Css / JavaScript / C# .
-- 💼 Em busca da primeira oportunidade dentro do mercado de trabalho.
+- 💻 Estou estudando atualmente, Html / Css / JavaScript .
+- 💼 Em busca da primeira oportunidade  de emprego com o desenvolvedor Front End Jr.
 
 
 <div align="center">
